@@ -1,0 +1,2 @@
+# SearchResultVCDemo
+1.initWithSearchResultsController:nilinitWithSearchResultsController:vc
